@@ -1,3 +1,7 @@
+# Credits to this artical
+
+https://medium.com/disney-streaming/combining-multiple-angular-applications-into-a-single-one-e87d530d6527
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
