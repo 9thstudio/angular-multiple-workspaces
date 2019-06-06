@@ -1,4 +1,4 @@
-# Credits to this artical
+# Credits to this article
 
 https://medium.com/disney-streaming/combining-multiple-angular-applications-into-a-single-one-e87d530d6527
 
